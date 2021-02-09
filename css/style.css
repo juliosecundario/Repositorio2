@@ -21,12 +21,21 @@ p{
     text-align: justify;
 }
 
-main > section {
+.seccion1 {
+    background-color: rgba(255, 155, 155, .30);
     border: 1px solid red;
     
 }
 
-main div section {
+.seccion2 {
     background-color: rgba(150, 225, 255, .30);
+    border: 1px solid blue;
+    margin-top: 10px;
 }
 
+.seccion2 h2{
+    font-weight: bold;
+    font-size: 3.2rem;
+    text-transform: uppercase;
+
+}
