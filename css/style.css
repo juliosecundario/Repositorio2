@@ -1,7 +1,7 @@
 *{
     box-sizing: border-box;
-    margin: 0%;
-    padding: 0;
+    margin: %;
+    padding: ;
 }
 
 
@@ -13,8 +13,20 @@ html{
 
 h1, h2 {
     font-size: 3rem;
+    text-align: justify;
 }
 
 p{
     font-size: 2rem;
+    text-align: justify;
 }
+
+main > section {
+    border: 1px solid red;
+    
+}
+
+main div section {
+    background-color: rgba(150, 225, 255, .30);
+}
+
